@@ -1,0 +1,21 @@
+author:
+  bio:
+    name:  Jihwan yoon
+    nick: blackcon
+    location: South Korea 🇰🇷
+    email: 131ackcon@gmail.com
+  Majors:
+    - Major: <code class="language-plaintext highlighter-rouge">Penetration tester</code> (All about systems)
+    - Major: <code class="language-plaintext highlighter-rouge">Security Researcher</code> (virtualmachine, eeg)
+    - Major: <code class="language-plaintext highlighter-rouge">Developer</code> (Python, Typescript..)
+  Interests:
+    - Interest: Virtual machines (Hyper-v, vmware … )
+    - Interest: Pentest
+    - Interest: Exploit
+    - Interest: Reversing
+  sns:
+    twitter: jh_blank
+    linkedin: blackcon
+  url:
+    github: https://github.com/blackcon/
+    tistory: https://blackcon.tistory.com/
