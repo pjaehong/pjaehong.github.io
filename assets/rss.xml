@@ -1,0 +1,49 @@
+---
+layout: compress
+permalink: /rss.xml
+# Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
+---
+
+{% capture source %}
+<rss version="2.0">
+    <channel>
+        <link>{{ "/" | absolute_url }}</link>
+        <title>{{ site.title }}</title>
+        <description>{{ site.description }}</description>
+        <language>{{ site.lang }} </language>
+        <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+        <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
+        <managingEditor>{{ site.social.name }}</managingEditor>
+        <ttl>100</ttl>
+
+        {% for post in site.posts %}
+        {% assign post_absolute_url = post.url | absolute_url %}
+        <item>
+            <title>{{ post.title }}</title>
+            <link>{{ post_absolute_url }}</link>
+            <guid isPermaLink="true">{{ post_absolute_url }}</guid>
+            <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+        {% if post.last_modified_at %}
+            <updated>{{ post.last_modified_at | date_to_xmlschema }}</updated>
+        {% else %}
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+        {% endif %}
+            <content src="{{ post_absolute_url }}" />
+            <author>{{ post.author | default: site.social.name }}</author>
+
+        {% if post.categories %}
+            {% for category in post.categories %}
+            <category term="{{ category }}">{{ category }}</category>
+            {% endfor %}
+        {% endif %}
+            <description>
+            {% include no-linenos.html content=post.content %}
+            {{ content  | strip_html }}
+            </description>
+
+        </item>
+        {% endfor %}
+    </channel>
+</rss>
+{% endcapture %}
+{{ source | replace: '&', '&amp;' }}
