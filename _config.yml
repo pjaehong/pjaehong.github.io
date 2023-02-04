@@ -63,7 +63,7 @@ google_analytics:
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 google_adsense:
-  client: "" # fill in your Google ad sense id
+  client: # fill in your Google ad sense id
 
 # Prefer color scheme setting.
 #
