@@ -13,15 +13,16 @@ layout: page
 
 <!-- About -->
 <div id="home-about">
-  <h2 id="-about">🧑‍💻 About</h2>
+  <h2 id="-about">🙋🏻‍♀️ About</h2>
   <li>Name: {{ site.data.authors.author.bio.name }} ( {{ site.data.authors.author.bio.nick }})</li>
   <li>Location: {{ site.data.authors.author.bio.location }}</li>
   <li>Careers: <a href="/career/">here</a></li>
+  <li>새로운 정보에 대해 흡수력이 빠르고, 문제해결과정에서 성취감을 얻고 그룹활동을 좋아하는 디자이너 입니다.</li>
 </div>
 <!-- Major -->
 {% if site.data.authors.author.Majors.size > 0 %}
 <div id="home-major">
-  <h2 id="-major">💻 Major</h2>
+  <h2 id="-major">🖥️ Major</h2>
   {% for item in site.data.authors.author.Majors %}
   <li>{{ item.Major }}</li>
   {% endfor %}
@@ -42,6 +43,5 @@ layout: page
 <div id="home-contact">
   <h2 id="-contact">🔗 Contact</h2>
   <li>E-mail: 📨 <a href="mailto://{{ site.data.authors.author.bio.email }}">{{ site.data.authors.author.bio.email }}</a></li>
-  <li>SNS: <a href="https://www.linkedin.com/in/{{ site.data.authors.author.sns.linkedin }}/">Linkedin</a> / <a href="https://twitter.com/{{ site.data.authors.author.sns.twitter }}">Twitter</a></li></li>
-  <li>Blog: <a href="{{ site.data.authors.author.url.tistory }}">Tistory</a></li>
+  <li>Phone: 📱+82 010-2384-5543</li>
 </div>
