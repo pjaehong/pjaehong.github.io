@@ -24,7 +24,7 @@ timezone: Asia/Seoul
 
 title: jaehong                          # the main title
 
-tagline: I have looking for job as UI desinger.<br/>you can contact to me if you want.
+tagline: 새로운 정보에 대해 개방적인 디자이너 박재홍입니다.<br/>you can contact to me if you want.
 
 description: >-                        # used by seo meta and the atom feed
   UI designer jaehong pak
@@ -75,7 +75,7 @@ google_site_verification:               # fill in to your verification string
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
