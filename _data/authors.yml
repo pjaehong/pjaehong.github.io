@@ -1,21 +1,19 @@
 author:
   bio:
-    name:  Jihwan yoon
-    nick: blackcon
+    name: Jaehong pak
+    nick: pjaehong
     location: South Korea 🇰🇷
-    email: 131ackcon@gmail.com
+    email: gyulim1993@gmail.com
   Majors:
-    - Major: <code class="language-plaintext highlighter-rouge">Penetration tester</code> (All about systems)
-    - Major: <code class="language-plaintext highlighter-rouge">Security Researcher</code> (virtualmachine, eeg)
-    - Major: <code class="language-plaintext highlighter-rouge">Developer</code> (Python, Typescript..)
+    - Major: <code class="language-plaintext highlighter-rouge">UI디자인</code> (모바일 앱 주니어)
+    - Major: <code class="language-plaintext highlighter-rouge">영상디자인</code> (짧은 콘텐츠와 광고)
+    - Major: <code class="language-plaintext highlighter-rouge">그래픽디자인</code> (광고배너,콘텐츠)
+    - Major: <code class="language-plaintext highlighter-rouge">이벤트디자인</code> (웹이벤트,프로모션)
   Interests:
-    - Interest: Virtual machines (Hyper-v, vmware … )
-    - Interest: Pentest
-    - Interest: Exploit
-    - Interest: Reversing
-  sns:
-    twitter: jh_blank
-    linkedin: blackcon
-  url:
-    github: https://github.com/blackcon/
-    tistory: https://blackcon.tistory.com/
+    - Interest: UX디자인
+    - Interest: 콘텐츠 트렌드
+    - Interest: 영어 스터디
+    - Interest: 트렌드 웹툰
+#   url:
+#    github: https://github.com/blackcon/
+#    tistory: https://blackcon.tistory.com/
