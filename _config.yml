@@ -22,32 +22,31 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: UIdesigner jaehong                          # the main title
+title: jaehong                          # the main title
 
-tagline: I have looking for job as UI desinger. you can contact to me if you want.
+tagline: I have looking for job as UI desinger.
+<br/>you can contact to me if you want.
 
 description: >-                        # used by seo meta and the atom feed
-  All of the hacking.
+  UI designer jaehong pak
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blackcon.github.io'
+url: 'https://pjaehong.github.io'
 
 github:
-  username: blackcon             # change to your github username
+  username: pjaehong             # change to your github username
 
 twitter:
-  username: jh_blank            # change to your twitter username
+  username:          # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: blackcon
-  email: 131ackcon@gmail.com
+  name: pjaehong
+  email: gyulim1993@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jh_blank      # change to your twitter homepage
-    - https://github.com/blackcon       # change to your github homepage
-    - https://www.linkedin.com/in/blackcon
+    # - https://www.linkedin.com/in/blackcon
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
@@ -57,14 +56,14 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-Z5TJNYFPRS # fill in your Google Analytics ID
+  id: # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
-google_adsense:
-  client: "ca-pub-6110935299948974" # fill in your Google ad sense id
+# google_adsense:
+# client: "ca-pub-6110935299948974" # fill in your Google ad sense id
 
 # Prefer color scheme setting.
 #
@@ -77,7 +76,7 @@ google_adsense:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -98,9 +97,9 @@ comments:
   disqus:
     shortname:   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
-  utterances:
-    repo: blackcon/blackcon.github.io        # <gh-username>/<repo>
-    issue_term: Comment  # < url | pathname | title | ...>
+  # utterances:
+  #   repo: blackcon/blackcon.github.io        # <gh-username>/<repo>
+  #   issue_term: Comment  # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo:             # <gh-username>/<repo>
