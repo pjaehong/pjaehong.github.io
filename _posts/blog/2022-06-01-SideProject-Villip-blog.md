@@ -16,6 +16,7 @@ date: 2023-04-05 13:13:00 +0900
 - <b>플로우차트</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_8.png><br>플로우 차트를 얕고 넓은 계층으로 만들어서 사용자가 페이지를 빠져 나올때 손쉽게 빠져나올 수 있도록 기획했습니다.<br>그리고 가게상세페이지에서만 채팅을 생성시킬 수 있도록 하여 무분별한 채팅을 줄이는 방향으로 했습니다.<br>활동한 내역이나 스크랩한 정보들은 간편하게 한 페이지(마이페이지)에서 관리 할수 있도록 기획했습니다.<br><br>
 
 # 3. 앱 디자인
+- <b>로고,캐릭터디자인</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_6.png><br>Village(마을)과 lip(입)을 합쳐서 Villip이라는 뜻 입니다.<br>이웃들간의 입을 통해 전해지는 소통으로 연결된다는 의미를 가지고 있습니다.<br>로고의 형태는 로케이션아이콘(loction icon) 2개가 연결된 모양입니다.<br>서로의 위치를 공유한다는 의미를 가지고 있습니다.<br>색상은 적극적이고 활동적인 느낌을 가진 주황색과<br>이웃의 다양성을 존중한다는 의미에서 보라색을 그라데이션(Gradation)으로 연결시켜서 로고를 완성했습니다.<br><br>
 - <b>디자인시스템</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_7.png><br><br>
 - <b>Onboarding</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_9.png><br>앱(application)진입 전, 사용자의 상황을 알 수 있는 항목을 체크하여 사용자가 원하는 맞춤정보를 앱에서 볼 수 있습니다.<br>빌립은 단순히 단계는 수를 줄이려 하기보다는 인지적부하와 신체적부하를 줄이는 방향으로 온보딩(Onboarding)을 기획하였습니다.<br>그리고 디자인을 일관성있는 컴포넌트(Componet)로 구성하여 복잡한 설명 없이도 조작을 예측할 수 있게 하였습니다.<br><br>
 - <b>홈화면</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_10.png><br><b>사용자 맞춤 정보 노출</b><br>온보딩을 통해 얻은 결과를 통해 우선순위로 우리동네 장소가 리스트로 표기됩니다.<br>쉼터, 강아지 산책하기 좋은 장소, 택시정류장, 푸드트럭위치 등등 동네 주민만 알 수 있었던 자세한 장소까지도 알 수 있습니다.<br><br>
