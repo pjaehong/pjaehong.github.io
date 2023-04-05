@@ -16,7 +16,7 @@ layout: page
 <div id="archives" class="pl-xl-3">
 
 {% for post in site.posts %}
-  {% if post.categories contains 'Career' %}  <!-- Career 카테고리를 제외함-->
+  {% if post.categories contains 'Experience' %}  <!-- Career 카테고리를 제외함-->
   {% else %}
     {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 
