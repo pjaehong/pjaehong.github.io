@@ -13,7 +13,7 @@ layout: page
 {% assign sort_categories = site.categories | sort %}
 
 {% for category in sort_categories %}
-  {% if category contains 'Career' %}  <!-- Career 카테고리를 제외함-->
+  {% if category contains 'Experience' %}  <!-- Career 카테고리를 제외함-->
   {% else %}
     {% assign category_name = category | first %}
     {% assign posts_of_category = category | last %}
