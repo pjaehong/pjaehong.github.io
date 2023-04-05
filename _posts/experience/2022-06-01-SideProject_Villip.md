@@ -1,7 +1,7 @@
 ---
 date: 2022-06-01 00:00:00 +0900
 title: 사이드프로젝트_Villip (Sep 2022 - Mar 2023)
-categories: [experience]
+categories: [Experience]
 tags: [사이드프로젝트]
 summary: 사이드프로젝트로 Villip 앱을 기획하고 디자인했음
 ---
