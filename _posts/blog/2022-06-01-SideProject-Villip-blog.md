@@ -2,7 +2,7 @@
 title: UI디자인 사이드프로젝트 '믿을 수 있는 동네정보 앱, Villip'
 categories: [UIdesign]
 tags: [UIdesign]
-date: 2023-04-05 13:13:00 +0900
+date: 2022-06-01 13:13:00 +0900
 ---
 # 1. 데스크리서치와 사용자조사
 ### Bacground
