@@ -6,8 +6,8 @@ tags: [사이트프로젝트, 리디자인]
 summary: 카카오T 앱의 문제점을 분석하고 리디자인했음
 ---
 
-# UI 디자인 ([🔗포트폴리오 확인](https://pjaehong.github.io/posts/SideProject_KakaoT_redesign-blog/))
-Design Thinking 방법론을 통해 UI를 리디자인했음.
+# [🔗포트폴리오 확인](https://pjaehong.github.io/posts/SideProject_KakaoT_redesign-blog/)
+Design Thinking 방법론을 통해 UI를 리디자인했음.<br>개인작업
 
 ## 1. 사용자와 서비스 공감
 - 사용자 조사
