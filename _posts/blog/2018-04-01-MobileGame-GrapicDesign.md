@@ -2,7 +2,7 @@
 title: 모바일 게임 그래픽디자인
 categories: [grapic design]
 tags: [grapic_design]
-date: 2023-04-05 13:13:00 +0900
+date: 2018-04-01 13:13:00 +0900
 ---
 # 1. 모바일게임 스크린샷
 
