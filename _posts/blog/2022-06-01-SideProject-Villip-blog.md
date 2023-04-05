@@ -32,7 +32,7 @@ date: 2023-04-05 13:13:00 +0900
 # 3. 앱 디자인
 ### 로고 디자인
 ![villip_6.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_6.png)
-<br>Village(마을)과 lip(입)을 합쳐서 Villip이라는 뜻 입니다.<br>이웃들간의 입을 통해 전해지는 소통으로 연결된다는 의미를 가지고 있습니다.<br>로고의 형태는 로케이션아이콘(loction icon) 2개가 연결된 모양입니다.<br>서로의 위치를 공유한다는 의미를 가지고 있습니다.<br>색상은 적극적이고 활동적인 느낌을 가진 주황색과<br>이웃의 다양성을 존중한다는 의미에서 보라색을 그라데이션(Gradation)으로 연결시켜서 로고를 완성했습니다.<br><br>
+<br>Village(마을)과 lip(입)을 합쳐서 Villip이라는 뜻 입니다.<br>이웃들간의 입을 통해 전해지는 소통으로 연결된다는 의미를 가지고 있습니다.<br>로고의 형태는 로케이션아이콘(loction icon) 2개가 연결된 모양입니다.서로의 위치를 공유한다는 의미를 가지고 있습니다.<br>색상은 적극적이고 활동적인 느낌을 가진 주황색과 이웃의 다양성을 존중한다는 의미에서 보라색을 그라데이션(Gradation)으로 연결시켜서 로고를 완성했습니다.<br><br>
 ### 디자인 시스템
 ![villip_7.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_7.png)
 <br><br>
