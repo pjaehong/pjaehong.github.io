@@ -2,7 +2,7 @@
 title: 유명브랜드 SNS콘텐츠 디자인
 categories: [grapic design]
 tags: [grapic_design]
-date: 2015-07-01 13:13:00 +0900
+date: 2015-07-02 13:13:00 +0900
 ---
 ### 자동차관련 브랜드 콘텐츠 제작
 필요한 정보 및 재밌는 해시태그를 통해 매주 글로벌 이용자들에게 전달하면서 브랜딩을 각인시키는 콘텐츠를 제작했습니다.<br>![gd_sns_hanta.png](/posts/gd_sns_hanta.png)<br><br>
