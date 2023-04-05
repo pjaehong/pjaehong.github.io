@@ -1,7 +1,7 @@
 ---
 date: 2022-10-01 00:00:00 +0900
 title: 사이드프로젝트_Muool 웹사이트 리디자인 (Oct 2022 - Jul 2023)
-categories: [Career]
+categories: [experience]
 tags: [사이드프로젝트]
 summary: 사이드프로젝트로 Muool 웹사이트를 리디자인했음
 ---
