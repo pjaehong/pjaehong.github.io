@@ -7,15 +7,30 @@ date: 2023-04-05 13:13:00 +0900
 # 1. 모바일게임 스크린샷
 
 ## 데스트니차일드:디펜스워 스크린샷 제작
-![gd_sc1.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/gd_sc1.png)<br>데스트니차일드의 캐릭터가 유명한 만큼 캐릭터가 강조되는 되도록 디자인했습니다.
+![gd_sc1.png](/posts/gd_sc1.png)<br>데스트니차일드의 캐릭터가 유명한 만큼 캐릭터가 강조되는 되도록 디자인했습니다.
 <br>또한 PVP 게임이 가지는 현장감이 이미지에서 느껴질 수 있도록 디자인하였고, 텍스트보다는 이미지 중심의 기획이 잘 느껴질 수 있도록 제작했습니다.<br><br><br>
 
 ## 검협:그리고 전설
-![gd_sc3.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/gd_sc3.png)<br>출시 당시 다른 RPG게임 들에 비해 퀄리티가 비교적 낮아보이는 점을 보완하기 위해 프레임에 스크린샷을 넣고,
+![gd_sc3.png](/posts/gd_sc3.png)<br>출시 당시 다른 RPG게임 들에 비해 퀄리티가 비교적 낮아보이는 점을 보완하기 위해 프레임에 스크린샷을 넣고,
 <br>좁아보이는 프레임의 단점은 프레임을 곡선으로 구부려서 스크린샷이 넓게 보이는 시각적효과를 주었습니다.<br><br><br>
 
 ## 볼링스타
-![gd_sc2.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/gd_sc2.png)<br>스포츠 게임이기에 실제 볼링을 치는 느낌을 사용자가 받을 수 있도록 디자인했습니다.
+![gd_sc2.png](/posts/gd_sc2.png)<br>스포츠 게임이기에 실제 볼링을 치는 느낌을 사용자가 받을 수 있도록 디자인했습니다.
 <br>앱을 설치했을때 사용자가 디자인에 동의할수 있도록 게임에서 사용하는 컬러를 사용하였습니다.<br><br><br>
 
+# 2. 모바일게임 웹이벤트
 
+## 유저가 게임을 계속 할 수 있도록 도와주는 웹이벤트
+![gd_event.png](/posts/gd_event.png)<br>모바일 기준으로 제작하였고, 기존게임에 지루함을 느꼈을 사용자를 위해 이벤트만큼은 게임 스타일에서 벗어난 디자인을 제작하였습니다.<br><br><br>
+
+# 3. 모바일게임 광고배너
+
+## 신규유저와 기존유저의 간극을 메꾸기 위한 광고 배너들
+![gd_b1.png](/posts/gd_b1.png)
+![gd_b2.png](/posts/gd_b2.png)
+![gd_b3.png](/posts/gd_b3.png)<br>신규유저배너는 게임이 한번에 이해될 수 있도록 실제 게임과 동일하게 디자인하였고,<br>기존유저를 위한 배너는 기존 게임에서 업그레이드 된 느낌으로 디자인했습니다.<br>그리고 디자인 뿐만아니라 기획에도 참여하였습니다.<br><br><br>
+
+# 4. 게임 내 공지배너와 SNS콘텐츠
+![gd_sns1.png](/posts/gd_sns1.png)
+![gd_sns2.png](/posts/gd_sns2.png)
+<br>자주 보이는 공지배너는 읽기편한 심플하고 깔끔한 스타일로 디자인하였고,<br>sns콘텐츠는 실제게임보다는 가볍고 유쾌한 스타일 위주로 디자인하였습니다.<br><br><br>
