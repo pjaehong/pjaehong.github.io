@@ -5,8 +5,9 @@ tags: [UIdesign]
 date: 2023-04-05 13:13:00 +0900
 ---
 # 1. 데스크리서치와 사용자조사
-
-- <b>Background</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_1.png><br>우리나라 사람들은 다른나라에 비해 통근편의, 환경, 건강, 자녀교육 문제로 이사를 많이 합니다.<br>이에 뒷받침 하는 근거로 국토교통부가 발표한 평균거주기간은 7.5년이며 청년 1인가구는 1.4년이라는 뉴스기사와 연구자료가 있습니다.<br>사람들이 자신이 사는곳에 대해 잘 알지 못해서 이사를 하는게 아닐까? 하는 생각과 이사 간 동네에 대해 알려주는 서비스가 필요하다고 생각했습니다.<br><br>
+- **Bacground**
+![villip_1.png](https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_1.png)
+<br>우리나라 사람들은 다른나라에 비해 통근편의, 환경, 건강, 자녀교육 문제로 이사를 많이 합니다.<br>이에 뒷받침 하는 근거로 국토교통부가 발표한 평균거주기간은 7.5년이며 청년 1인가구는 1.4년이라는 뉴스기사와 연구자료가 있습니다.<br>사람들이 자신이 사는곳에 대해 잘 알지 못해서 이사를 하는게 아닐까? 하는 생각과 이사 간 동네에 대해 알려주는 서비스가 필요하다고 생각했습니다.<br><br>
 - <b>경쟁앱분석</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_2.png><br>지역의 상권과 정보를 담고있는 어플리케이션에 대해 사용자 입장에서 조사하고 분석했습니다.<br>사용자들은 네이버지도는 광고가 검색에 우선 노출되는 점, 당근마켓은 거래불이행<br>또는 데이트 목적이나 비속어 사용을 하는 이용자가 많은 점들로 불만을 느끼고 있었습니다.<br><br>
 - <b>문제점과 요구사항</b><br><img src=https://raw.githubusercontent.com/pjaehong/pjaehong.github.io/main/assets/img/posts/villip_3.png><br>데스크리서치와 경쟁사 분석을 기반으로 사용자입장에서 보는 문제점과 요구사항 키워드를 도출했습니다.<br>사용자들은 신뢰하고 싶은 정보를 손쉽게 얻고 관리하고 싶어했습니다.<br><br>
 
