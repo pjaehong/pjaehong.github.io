@@ -1,5 +1,5 @@
 ---
-date: 2014-07-01 19:09:00 +0900
+date: 2015-07-01 19:09:00 +0900
 title: Dmajor와 GroupIDD에서 그래픽디자이너로 근무 (Jul 2015 - Jan 2018)
 categories: [Career]
 tags: [다양한_브랜드_경험]
