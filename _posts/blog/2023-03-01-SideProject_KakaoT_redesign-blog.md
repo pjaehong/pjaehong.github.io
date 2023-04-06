@@ -1,7 +1,7 @@
 ---
-title: UI디자인 사이드프로젝트 '카카오T 리디자인'
+title: UI디자인 개인작업 '카카오T 리디자인'
 categories: [UIdesign]
-tags: [UIdesign]
+tags: [UIdesign, 리디자인]
 date: 2023-03-01 13:13:00 +0900
 ---
 ### Design Thinking 방법론을 통해 프로토타입을 제작
