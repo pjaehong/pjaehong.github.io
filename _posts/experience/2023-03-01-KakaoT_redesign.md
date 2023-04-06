@@ -2,7 +2,7 @@
 date: 2023-03-01 00:00:00 +0900
 title: 카카오T리디자인 (Sep 2022 - Mar 2023)
 categories: [Experience]
-tags: [사이트프로젝트, 리디자인]
+tags: []
 summary: 카카오T 앱의 문제점을 분석하고 리디자인했음
 ---
 
