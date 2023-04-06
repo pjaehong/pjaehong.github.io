@@ -2,7 +2,7 @@
 date: 2015-07-01 19:09:00 +0900
 title: Dmajor와 GroupIDD에서 그래픽디자이너로 근무 (Jul 2015 - Jan 2018)
 categories: [Experience]
-tags: [다양한_브랜드_경험]
+tags: []
 summary: 유명 브랜드 SNS채널들을 안정적으로 운영될 수 있도록 효율적이고 완성도 높은 콘텐츠 제작
 ---
 
